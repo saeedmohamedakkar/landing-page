@@ -1,0 +1,49 @@
+.ForexTrade {
+    margin-left: 30px;
+}
+
+.NAV {
+    font-family: serif
+}
+
+.loginBtn {
+    outline: auto black;
+    box-shadow: 10px 7px 1px rgb(0, 0, 0);
+}
+
+.heade {
+    background-image: url("images/—Pngtree—wavy\ line\ shading_5396716.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 60px;
+    margin-left: 8%;
+}
+
+.paragraph {
+    margin-left: 8%;
+    line-height: 20px;
+}
+
+.learnHowToStartBtn {
+    margin-left: 20%;
+}
+
+.servicesDiv {
+    background-color: rgba(238, 238, 238, 0.416)
+}
+
+.rightServicesDiv {
+    margin-top: 15%;
+}
+
+.btnsDiv {
+    margin-top: 6%;
+}
+
+/* @media screen {
+    max-width: 750px;
+} */
